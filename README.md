@@ -26,11 +26,4 @@ A machine learning project focused on detecting fraudulent credit card transacti
 - Imbalanced-learn.
 - seaborn, Matplotlib.
 
-## Repo Structure
-
-📦 credit-card-fraud-detection
-├── credit_card_fraud_detection.py # (main script)
-├── creditcard.csv # dataset
-├── README.md # this very file
-
 # I hope you like this small project, as much as I learnt from it.
